@@ -72,7 +72,6 @@ function Render() {
       Draw(POS.x,POS.y,POS.rad,POS.mode);
     }
   }
-
 }
 
 function reSize() {
